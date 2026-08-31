@@ -10,7 +10,7 @@
 - CSS
 - VS-Code
 
-# ScreenShots:
+# Screenshots:
 <p align="center">
  <img src="Screenshots/solarsystemImg.png"/>
 </p>
